@@ -48,7 +48,7 @@ Centralized business logic and time-intelligence calculations[cite: 1]:
 ![Executive Summary](images/executive_summary.png)
 
 ### 2. Operations & Categories Analytics
-![Operations Analytics](images/operations_dashboard.png)
+![Operations Analytics](images/operations& category png.PNG.png)
 
 ## 🚀 How to Use / View
 1. Clone or download this repository.
