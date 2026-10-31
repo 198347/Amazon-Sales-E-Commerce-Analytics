@@ -42,7 +42,13 @@ Centralized business logic and time-intelligence calculations[cite: 1]:
 * **Page 1 (Executive Summary):** KPI cards (Revenue, Orders, Quantity, AOV), monthly revenue trend line chart, and Easy Ship vs. Merchant fulfillment split donut chart[cite: 1].
 * **Page 2 (Operations & Categories):** Top product categories bar chart, order status distribution (Delivered, Cancelled, Pending), courier shipping performance, and interactive slicers[cite: 1].
 
----
+---## 🖼️ Dashboard Preview
+
+### 1. Executive Summary
+![Executive Summary](images/executive_summary.png)
+
+### 2. Operations & Categories Analytics
+![Operations Analytics](images/operations_dashboard.png)
 
 ## 🚀 How to Use / View
 1. Clone or download this repository.
